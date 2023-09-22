@@ -53,7 +53,6 @@ paginate = 3
 	# Navigation links
 	home = ""
 	about = ""
-	now = ""
 	blogs = ""
 	tags = ""
 	subscribe = ""
